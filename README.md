@@ -60,4 +60,4 @@ Tabela `produtos`:
 - Comandos SQL: `CREATE TABLE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`
 - Consultas parametrizadas (proteção contra SQL Injection)
 
-Projeto desenvolvido por como parte dos estudos de lógica de programação e banco de dados.
+Projeto desenvolvido como parte dos estudos de lógica de programação e banco de dados.
