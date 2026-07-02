@@ -20,7 +20,7 @@ Projeto simples em **Python + SQL (SQLite)** para praticar lógica de programaç
 ## Como rodar
 
 ```bash
-git clone https://github.com/mariliamezalheiradev/projeto-simples-py-sql.git
+git clone https://github.com/mariliamezalheiradev/projeto-py-sql.git
 cd projeto-simples-py-sql
 python app.py
 ```
